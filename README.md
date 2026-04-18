@@ -14,14 +14,6 @@ This project is a **Machine Learning classification system** that detects whethe
 
 ---
 
-## 📊 GitHub Stats (Portfolio Ready)
-
-![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=alr3n&repo=Breast-Cancer-Machine-Learning-Pipeline&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alr3n&layout=compact&theme=tokyonight)
-
----
-
 ## 📊 Exploratory Data Analysis (EDA)
 
 ### 📈 Class Distribution
